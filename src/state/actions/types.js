@@ -1,1 +1,1 @@
-export const TEST_PRODUCTS = 'TEST_PRODUCTS';
+export const CART = 'CART';

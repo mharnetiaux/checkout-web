@@ -1,9 +1,10 @@
 import {
-    TEST_PRODUCTS,
+    CART,
 } from "../actions/types";
 
-export function test() {
+export function cart() {
     return {
-        type: TEST_PRODUCTS
+        type: CART,
+        items: "Product name ..."
     }
 }
